@@ -1,0 +1,37 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  font-size: 0.9rem;
+}
+
+h1 {
+  font-family: "Cutive Mono";
+  font-size: 1.5em;
+}
+
+p {
+  font-family: "Helvetica Neue";
+  color: darkslategray
+}
+
+ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.navbar-logo {
+  display: inline-block;
+  height: 2em;
+  vertical-align: middle;
+  content: "";
+  background: no-repeat center center;
+  background-size: 100% 100%;
+}
+
+.text-right {
+  text-align: right;
+}
